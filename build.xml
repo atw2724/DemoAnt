@@ -1,5 +1,3 @@
-#updating to push to main
-
 me="Hello World Project" default="info">
 
 <target name="info">
